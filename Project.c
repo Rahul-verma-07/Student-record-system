@@ -21,6 +21,7 @@ typedef struct Student
 // FUNTION PROTOTYPE
 void p_line(const char *line, float seconds);
 void clear_screen(void);
+void handle_new_student(void);
 
 int main()
 {
